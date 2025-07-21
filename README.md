@@ -1,4 +1,4 @@
-# Technical_Writting
+# Technical_Writing
 # How to Write a README File: Syntax and Structure
 
 A README file is a critical document that explains your project to users and developers. It's typically written in Markdown (as `README.md`) and serves as the front page of your project on platforms like GitHub.
